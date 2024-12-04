@@ -1,0 +1,402 @@
+{
+    "302": {
+        "title": "Punishment for Murder",
+        "description": "Whoever commits murder shall be punished with death, or imprisonment for life."
+    },
+    "376": {
+        "title": "Punishment for Rape",
+        "description": "Whoever commits rape shall be punished with rigorous imprisonment for a term not less than ten years, which may extend to imprisonment for life."
+    },
+    "498A": {
+        "title": "Husband or Relative of Husband of a Woman Subjecting Her to Cruelty",
+        "description": "Whoever, being the husband or the relative of the husband of a woman, subjects her to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine."
+    },
+    "420": {
+        "title": "Cheating and Dishonestly Inducing Delivery of Property",
+        "description": "Whoever cheats and dishonestly induces another person to deliver any property shall be punished with imprisonment which may extend to seven years and shall also be liable to fine."
+    },
+    "307": {
+        "title": "Attempt to Murder",
+        "description": "Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment which may extend to ten years, and shall also be liable to fine."
+    },
+    "323": {
+        "title": "Punishment for Voluntarily Causing Hurt",
+        "description": "Whoever, except in the case provided for by Section 334, voluntarily causes hurt shall be punished with imprisonment which may extend to one year, or with fine, or with both."
+    },
+    "324": {
+        "title": "Voluntarily Causing Hurt by Dangerous Weapons or Means",
+        "description": "Whoever voluntarily causes hurt by dangerous weapons or means shall be punished with imprisonment which may extend to three years, or with fine, or with both."
+    },
+    "354": {
+        "title": "Assault or Criminal Force to Woman with Intent to Outrage Her Modesty",
+        "description": "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment which may extend to two years, or with fine, or with both."
+    },
+    "363": {
+        "title": "Punishment for Kidnapping",
+        "description": "Whoever kidnaps shall be punished with imprisonment which may extend to seven years, and shall also be liable to fine."
+    },
+    "366": {
+        "title": "Kidnapping, Abducting or Inducing Woman to Compel Her Marriage, etc.",
+        "description": "Whoever kidnaps or abducts any woman with intent that she may be compelled to marry any person against her will or forced or seduced to illicit intercourse shall be punished with imprisonment which may extend to ten years, and shall also be liable to fine."
+    },
+    "11": {
+        "title": "Sample Law Title 11",
+        "description": "This is the description for law 11, providing details about its application."
+    },
+    "12": {
+        "title": "Sample Law Title 12",
+        "description": "This is the description for law 12, providing details about its application."
+    },
+    "13": {
+        "title": "Sample Law Title 13",
+        "description": "This is the description for law 13, providing details about its application."
+    },
+    "14": {
+        "title": "Sample Law Title 14",
+        "description": "This is the description for law 14, providing details about its application."
+    },
+    "15": {
+        "title": "Sample Law Title 15",
+        "description": "This is the description for law 15, providing details about its application."
+    },
+    "16": {
+        "title": "Sample Law Title 16",
+        "description": "This is the description for law 16, providing details about its application."
+    },
+    "17": {
+        "title": "Sample Law Title 17",
+        "description": "This is the description for law 17, providing details about its application."
+    },
+    "18": {
+        "title": "Sample Law Title 18",
+        "description": "This is the description for law 18, providing details about its application."
+    },
+    "19": {
+        "title": "Sample Law Title 19",
+        "description": "This is the description for law 19, providing details about its application."
+    },
+    "20": {
+        "title": "Sample Law Title 20",
+        "description": "This is the description for law 20, providing details about its application."
+    },
+    "21": {
+        "title": "Sample Law Title 21",
+        "description": "This is the description for law 21, providing details about its application."
+    },
+    "22": {
+        "title": "Sample Law Title 22",
+        "description": "This is the description for law 22, providing details about its application."
+    },
+    "23": {
+        "title": "Sample Law Title 23",
+        "description": "This is the description for law 23, providing details about its application."
+    },
+    "24": {
+        "title": "Sample Law Title 24",
+        "description": "This is the description for law 24, providing details about its application."
+    },
+    "25": {
+        "title": "Sample Law Title 25",
+        "description": "This is the description for law 25, providing details about its application."
+    },
+    "26": {
+        "title": "Sample Law Title 26",
+        "description": "This is the description for law 26, providing details about its application."
+    },
+    "27": {
+        "title": "Sample Law Title 27",
+        "description": "This is the description for law 27, providing details about its application."
+    },
+    "28": {
+        "title": "Sample Law Title 28",
+        "description": "This is the description for law 28, providing details about its application."
+    },
+    "29": {
+        "title": "Sample Law Title 29",
+        "description": "This is the description for law 29, providing details about its application."
+    },
+    "30": {
+        "title": "Sample Law Title 30",
+        "description": "This is the description for law 30, providing details about its application."
+    },
+    "31": {
+        "title": "Sample Law Title 31",
+        "description": "This is the description for law 31, providing details about its application."
+    },
+    "32": {
+        "title": "Sample Law Title 32",
+        "description": "This is the description for law 32, providing details about its application."
+    },
+    "33": {
+        "title": "Sample Law Title 33",
+        "description": "This is the description for law 33, providing details about its application."
+    },
+    "34": {
+        "title": "Sample Law Title 34",
+        "description": "This is the description for law 34, providing details about its application."
+    },
+    "35": {
+        "title": "Sample Law Title 35",
+        "description": "This is the description for law 35, providing details about its application."
+    },
+    "36": {
+        "title": "Sample Law Title 36",
+        "description": "This is the description for law 36, providing details about its application."
+    },
+    "37": {
+        "title": "Sample Law Title 37",
+        "description": "This is the description for law 37, providing details about its application."
+    },
+    "38": {
+        "title": "Sample Law Title 38",
+        "description": "This is the description for law 38, providing details about its application."
+    },
+    "39": {
+        "title": "Sample Law Title 39",
+        "description": "This is the description for law 39, providing details about its application."
+    },
+    "40": {
+        "title": "Sample Law Title 40",
+        "description": "This is the description for law 40, providing details about its application."
+    },
+    "41": {
+        "title": "Sample Law Title 41",
+        "description": "This is the description for law 41, providing details about its application."
+    },
+    "42": {
+        "title": "Sample Law Title 42",
+        "description": "This is the description for law 42, providing details about its application."
+    },
+    "43": {
+        "title": "Sample Law Title 43",
+        "description": "This is the description for law 43, providing details about its application."
+    },
+    "44": {
+        "title": "Sample Law Title 44",
+        "description": "This is the description for law 44, providing details about its application."
+    },
+    "45": {
+        "title": "Sample Law Title 45",
+        "description": "This is the description for law 45, providing details about its application."
+    },
+    "46": {
+        "title": "Sample Law Title 46",
+        "description": "This is the description for law 46, providing details about its application."
+    },
+    "47": {
+        "title": "Sample Law Title 47",
+        "description": "This is the description for law 47, providing details about its application."
+    },
+    "48": {
+        "title": "Sample Law Title 48",
+        "description": "This is the description for law 48, providing details about its application."
+    },
+    "49": {
+        "title": "Sample Law Title 49",
+        "description": "This is the description for law 49, providing details about its application."
+    },
+    "50": {
+        "title": "Sample Law Title 50",
+        "description": "This is the description for law 50, providing details about its application."
+    },
+    "51": {
+        "title": "Sample Law Title 51",
+        "description": "This is the description for law 51, providing details about its application."
+    },
+    "52": {
+        "title": "Sample Law Title 52",
+        "description": "This is the description for law 52, providing details about its application."
+    },
+    "53": {
+        "title": "Sample Law Title 53",
+        "description": "This is the description for law 53, providing details about its application."
+    },
+    "54": {
+        "title": "Sample Law Title 54",
+        "description": "This is the description for law 54, providing details about its application."
+    },
+    "55": {
+        "title": "Sample Law Title 55",
+        "description": "This is the description for law 55, providing details about its application."
+    },
+    "56": {
+        "title": "Sample Law Title 56",
+        "description": "This is the description for law 56, providing details about its application."
+    },
+    "57": {
+        "title": "Sample Law Title 57",
+        "description": "This is the description for law 57, providing details about its application."
+    },
+    "58": {
+        "title": "Sample Law Title 58",
+        "description": "This is the description for law 58, providing details about its application."
+    },
+    "59": {
+        "title": "Sample Law Title 59",
+        "description": "This is the description for law 59, providing details about its application."
+    },
+    "60": {
+        "title": "Sample Law Title 60",
+        "description": "This is the description for law 60, providing details about its application."
+    },
+    "61": {
+        "title": "Sample Law Title 61",
+        "description": "This is the description for law 61, providing details about its application."
+    },
+    "62": {
+        "title": "Sample Law Title 62",
+        "description": "This is the description for law 62, providing details about its application."
+    },
+    "63": {
+        "title": "Sample Law Title 63",
+        "description": "This is the description for law 63, providing details about its application."
+    },
+    "64": {
+        "title": "Sample Law Title 64",
+        "description": "This is the description for law 64, providing details about its application."
+    },
+    "65": {
+        "title": "Sample Law Title 65",
+        "description": "This is the description for law 65, providing details about its application."
+    },
+    "66": {
+        "title": "Sample Law Title 66",
+        "description": "This is the description for law 66, providing details about its application."
+    },
+    "67": {
+        "title": "Sample Law Title 67",
+        "description": "This is the description for law 67, providing details about its application."
+    },
+    "68": {
+        "title": "Sample Law Title 68",
+        "description": "This is the description for law 68, providing details about its application."
+    },
+    "69": {
+        "title": "Sample Law Title 69",
+        "description": "This is the description for law 69, providing details about its application."
+    },
+    "70": {
+        "title": "Sample Law Title 70",
+        "description": "This is the description for law 70, providing details about its application."
+    },
+    "71": {
+        "title": "Sample Law Title 71",
+        "description": "This is the description for law 71, providing details about its application."
+    },
+    "72": {
+        "title": "Sample Law Title 72",
+        "description": "This is the description for law 72, providing details about its application."
+    },
+    "73": {
+        "title": "Sample Law Title 73",
+        "description": "This is the description for law 73, providing details about its application."
+    },
+    "74": {
+        "title": "Sample Law Title 74",
+        "description": "This is the description for law 74, providing details about its application."
+    },
+    "75": {
+        "title": "Sample Law Title 75",
+        "description": "This is the description for law 75, providing details about its application."
+    },
+    "76": {
+        "title": "Sample Law Title 76",
+        "description": "This is the description for law 76, providing details about its application."
+    },
+    "77": {
+        "title": "Sample Law Title 77",
+        "description": "This is the description for law 77, providing details about its application."
+    },
+    "78": {
+        "title": "Sample Law Title 78",
+        "description": "This is the description for law 78, providing details about its application."
+    },
+    "79": {
+        "title": "Sample Law Title 79",
+        "description": "This is the description for law 79, providing details about its application."
+    },
+    "80": {
+        "title": "Sample Law Title 80",
+        "description": "This is the description for law 80, providing details about its application."
+    },
+    "81": {
+        "title": "Sample Law Title 81",
+        "description": "This is the description for law 81, providing details about its application."
+    },
+    "82": {
+        "title": "Sample Law Title 82",
+        "description": "This is the description for law 82, providing details about its application."
+    },
+    "83": {
+        "title": "Sample Law Title 83",
+        "description": "This is the description for law 83, providing details about its application."
+    },
+    "84": {
+        "title": "Sample Law Title 84",
+        "description": "This is the description for law 84, providing details about its application."
+    },
+    "85": {
+        "title": "Sample Law Title 85",
+        "description": "This is the description for law 85, providing details about its application."
+    },
+    "86": {
+        "title": "Sample Law Title 86",
+        "description": "This is the description for law 86, providing details about its application."
+    },
+    "87": {
+        "title": "Sample Law Title 87",
+        "description": "This is the description for law 87, providing details about its application."
+    },
+    "88": {
+        "title": "Sample Law Title 88",
+        "description": "This is the description for law 88, providing details about its application."
+    },
+    "89": {
+        "title": "Sample Law Title 89",
+        "description": "This is the description for law 89, providing details about its application."
+    },
+    "90": {
+        "title": "Sample Law Title 90",
+        "description": "This is the description for law 90, providing details about its application."
+    },
+    "91": {
+        "title": "Sample Law Title 91",
+        "description": "This is the description for law 91, providing details about its application."
+    },
+    "92": {
+        "title": "Sample Law Title 92",
+        "description": "This is the description for law 92, providing details about its application."
+    },
+    "93": {
+        "title": "Sample Law Title 93",
+        "description": "This is the description for law 93, providing details about its application."
+    },
+    "94": {
+        "title": "Sample Law Title 94",
+        "description": "This is the description for law 94, providing details about its application."
+    },
+    "95": {
+        "title": "Sample Law Title 95",
+        "description": "This is the description for law 95, providing details about its application."
+    },
+    "96": {
+        "title": "Sample Law Title 96",
+        "description": "This is the description for law 96, providing details about its application."
+    },
+    "97": {
+        "title": "Sample Law Title 97",
+        "description": "This is the description for law 97, providing details about its application."
+    },
+    "98": {
+        "title": "Sample Law Title 98",
+        "description": "This is the description for law 98, providing details about its application."
+    },
+    "99": {
+        "title": "Sample Law Title 99",
+        "description": "This is the description for law 99, providing details about its application."
+    },
+    "100": {
+        "title": "Sample Law Title 100",
+        "description": "This is the description for law 100, providing details about its application."
+    }
+}
